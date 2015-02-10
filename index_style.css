@@ -1,0 +1,57 @@
+img.cat_img {
+  width:300px;
+  height:300px;
+  border: 2px solid #990000;
+  padding: 2px;
+  position: absolute;
+  right: 2%;
+  bottom: 2%;
+}
+
+h1 {
+  font-family: "Copperplate", Helvetica, sans-serif;
+  font-size: 60px;
+  text-decoration: underline overline;
+  text-decoration-style: dashed;
+  text-decoration-color: #990000;
+}
+
+a:link {
+  color: #FF0000;
+}
+
+a:visited {
+  color: #990000;
+}
+
+a:hover {
+  color: #FF3333;
+}
+
+.nav_menu {
+  font-weight: bold;
+  background-color: white;
+}
+
+body {
+  margin: 2%;
+  background: #DDDDDD;
+}
+
+.nav_menu {
+  border: 2px solid #990000;
+  width: 130px;
+  position: fixed;
+  right: 2%;
+  top: 2%;
+}
+
+.form {
+  border: 2px solid #990000;
+  width: 300px;
+  padding: 5px;
+}
+
+p {
+  line-height: 1.2;
+}
